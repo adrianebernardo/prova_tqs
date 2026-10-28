@@ -35,3 +35,5 @@ mvn test -Dbrowser=HEADLESS_CHROME
 ```
 
 Ou pelo VS Code (Extension Pack for Java): abra a classe `RealizarTransferenciaComSucessoTest` e clique em **Run Test** ao lado do método `realizarTransferencia`.
+
+<img src="tqs.png" alt="TQS" width="400">
